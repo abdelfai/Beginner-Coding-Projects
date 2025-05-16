@@ -33,4 +33,4 @@ print ("Weight on Uranus:  " + format(nUranusWeight, '10.2f'))
 print ("Weight on Neptune: " + format(nNeptuneWeight, '10.2f'))
 print ("Weight on Pluto:   " + format(nPlutoWeight, '10.2f'))
 
-# :) 
+
