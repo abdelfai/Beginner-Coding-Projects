@@ -80,4 +80,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-# learning how to sceript lua and the book really helped with this assignment. one thing i honestly dont know how to fix is the tax at the end. i tried multiplying the tax with 100 and dividing it from the total cost but its not giving me the number you had. It really stumped me
