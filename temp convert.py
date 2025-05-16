@@ -21,4 +21,3 @@ else:
           
 
 
-# this one stumped me a little, was there any easier way to code this? any tips would be appreciated.
