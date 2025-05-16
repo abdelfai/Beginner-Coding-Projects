@@ -64,4 +64,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-#changed it up and made it so the error keeps popping up if you dont have a number greater than 0 until you do have it. instead of looping "Enter Property sales value:"  like shown in your example.
+
