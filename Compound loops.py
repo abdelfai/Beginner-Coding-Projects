@@ -63,6 +63,6 @@ while fAccountBalance < fGoal:
 print(f"It will take: {iMonthsItTakes} months to reach the goal of $ {fGoal:,.2f}")
 
 
-#hopefully there isnt a assigment harder than this one 😂
+
     
 
